@@ -1,10 +1,11 @@
 ---
 layout: single
 title: "첫 깃헙블로그 포스팅"
-categories: blog001
 ---
 
-<!-- tags : [test]
+<!-- 
+categories: blog001
+tags : [test]
 published: true
 tor : true
 tor_sticky: true
