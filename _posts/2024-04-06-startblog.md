@@ -39,8 +39,8 @@ comments: true
 ## 이미지 
 
 > 이미지
-![Brain]({{site.url}}/images/image1.png)
-![Cell]({{site.url}}/images/image2.png)
+![yaong]({{site.url}}/images/image1.png)
+![huh]({{site.url}}/images/image2.png)
 
 ## 더 자세한 깃헙 블로깅 팁
 - [테디노트](https://youtube.com/playlist?list=PLIMb_GuNnFwfMm3alTSOmDK4AnpdG7USY)
